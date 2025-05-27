@@ -1,2 +1,3 @@
 # PixelSet6
-jinu
+
+Image data from `@/amludQ==`
